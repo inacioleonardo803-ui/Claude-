@@ -1,15 +1,15 @@
 {
-  "id": "emu-war",
-  "lang": "en",
-  "title": "The Emu War: Australia vs. the emus",
+  "id": "guerra-dos-emus",
+  "lang": "pt",
+  "title": "A Guerra dos Emus: Austrália contra os emus",
   "useCase": "history",
   "voiceTier": "budget",
   "scenes": [
     {
-      "text": "In 1932, Australia's army fought birds.",
+      "text": "Em 1932, a Austrália lutou contra pássaros.",
       "highlight": [
-        "army",
-        "birds"
+        "Austrália",
+        "pássaros"
       ],
       "background": "street",
       "actors": [
@@ -36,17 +36,17 @@
       "camera": "punchIn",
       "bigText": "1932",
       "narration": {
-        "voice": "Andrew (Natural)  (United States)",
-        "url": "https://cdn.ttsforfree.com/audio/20261109/8e582bda-222c-4fc7-a6b0-6c66c6d20e44.mp3",
-        "credits": 20,
-        "file": "audio/8e582bda-222c-4fc7-a6b0-6c66c6d20e44.mp3",
-        "durationSec": 3.792
+        "voice": "Antonio (Natural) (Brazil)",
+        "url": "https://cdn.ttsforfree.com/audio/20261109/c4cccc54-4c16-4baf-a17b-5ae872a78041.mp3",
+        "credits": 22,
+        "file": "audio/c4cccc54-4c16-4baf-a17b-5ae872a78041.mp3",
+        "durationSec": 3.816
       }
     },
     {
-      "text": "And the birds won. Sort of.",
+      "text": "E os pássaros venceram. Mais ou menos.",
       "highlight": [
-        "won"
+        "venceram"
       ],
       "background": "void",
       "actors": [
@@ -78,18 +78,18 @@
       ],
       "camera": "shake",
       "narration": {
-        "voice": "Andrew (Natural)  (United States)",
-        "url": "https://cdn.ttsforfree.com/audio/20261109/e73f3ccd-1ba1-44bf-a5e3-10c8aa1c46ef.mp3",
-        "credits": 14,
-        "file": "audio/e73f3ccd-1ba1-44bf-a5e3-10c8aa1c46ef.mp3",
-        "durationSec": 1.992
+        "voice": "Antonio (Natural) (Brazil)",
+        "url": "https://cdn.ttsforfree.com/audio/20261109/c4294b96-ff56-4856-bc94-8446a29f75ba.mp3",
+        "credits": 19,
+        "file": "audio/c4294b96-ff56-4856-bc94-8446a29f75ba.mp3",
+        "durationSec": 3.36
       }
     },
     {
-      "text": "Twenty thousand emus were trampling Western Australia's wheat.",
+      "text": "Vinte mil emus estavam destruindo o trigo da Austrália.",
       "highlight": [
-        "twenty",
-        "thousand"
+        "vinte",
+        "mil"
       ],
       "background": "street",
       "actors": [
@@ -136,7 +136,7 @@
         {
           "kind": "sign",
           "x": 0.5,
-          "label": "WHEAT",
+          "label": "TRIGO",
           "scale": 0.7
         }
       ],
@@ -148,18 +148,17 @@
       ],
       "bigText": "20,000",
       "narration": {
-        "voice": "Andrew (Natural)  (United States)",
-        "url": "https://cdn.ttsforfree.com/audio/20261109/3526c2bd-1d2f-48f3-8b85-97584edd1309.mp3",
-        "credits": 31,
-        "file": "audio/3526c2bd-1d2f-48f3-8b85-97584edd1309.mp3",
-        "durationSec": 3.816
+        "voice": "Antonio (Natural) (Brazil)",
+        "url": "https://cdn.ttsforfree.com/audio/20261109/8954a77b-492d-4866-b824-50cabe569f64.mp3",
+        "credits": 28,
+        "file": "audio/8954a77b-492d-4866-b824-50cabe569f64.mp3",
+        "durationSec": 3.024
       }
     },
     {
-      "text": "So the government sent soldiers with two machine guns.",
+      "text": "Então o governo mandou soldados com duas metralhadoras.",
       "highlight": [
-        "machine",
-        "guns"
+        "metralhadoras"
       ],
       "background": "office",
       "actors": [
@@ -189,17 +188,17 @@
       ],
       "camera": "pan",
       "narration": {
-        "voice": "Andrew (Natural)  (United States)",
-        "url": "https://cdn.ttsforfree.com/audio/20261109/3626f3a3-6abb-429d-90ed-ad21bb22b410.mp3",
-        "credits": 27,
-        "file": "audio/3626f3a3-6abb-429d-90ed-ad21bb22b410.mp3",
-        "durationSec": 3.096
+        "voice": "Antonio (Natural) (Brazil)",
+        "url": "https://cdn.ttsforfree.com/audio/20261109/c604e67c-1628-4361-979f-86fe258bb66a.mp3",
+        "credits": 28,
+        "file": "audio/c604e67c-1628-4361-979f-86fe258bb66a.mp3",
+        "durationSec": 3.36
       }
     },
     {
-      "text": "The emus scattered and sprinted off at fifty kilometres an hour.",
+      "text": "Os emus se espalharam e correram a cinquenta quilômetros por hora.",
       "highlight": [
-        "fifty"
+        "cinquenta"
       ],
       "background": "street",
       "actors": [
@@ -243,19 +242,19 @@
       ],
       "bigText": "50 km/h",
       "narration": {
-        "voice": "Andrew (Natural)  (United States)",
-        "url": "https://cdn.ttsforfree.com/audio/20261109/9d7cd154-9c06-416b-998d-660d6d63b994.mp3",
-        "credits": 32,
-        "file": "audio/9d7cd154-9c06-416b-998d-660d6d63b994.mp3",
-        "durationSec": 4.08
+        "voice": "Antonio (Natural) (Brazil)",
+        "url": "https://cdn.ttsforfree.com/audio/20261109/f3406cd7-3848-442c-9432-a32bc9b0cdae.mp3",
+        "credits": 33,
+        "file": "audio/f3406cd7-3848-442c-9432-a32bc9b0cdae.mp3",
+        "durationSec": 3.432
       }
     },
     {
-      "text": "A gun jammed. Newspapers called it the Emu War.",
+      "text": "Uma arma travou. A imprensa apelidou de Guerra dos Emus.",
       "highlight": [
-        "jammed",
-        "Emu",
-        "War"
+        "travou",
+        "Guerra",
+        "Emus"
       ],
       "background": "city",
       "actors": [
@@ -273,32 +272,32 @@
         {
           "kind": "phoneBig",
           "x": 0.72,
-          "label": "EMU WAR!",
+          "label": "EMUS!",
           "scale": 0.8
         }
       ],
       "effects": [
         {
           "kind": "pow",
-          "x": 0.7,
-          "y": 0.4,
+          "x": 0.3,
+          "y": 0.3,
           "at": 0.6
         }
       ],
       "camera": "shake",
       "narration": {
-        "voice": "Andrew (Natural)  (United States)",
-        "url": "https://cdn.ttsforfree.com/audio/20261109/91487896-1e4e-4278-9eb5-a723e1b10d63.mp3",
-        "credits": 24,
-        "file": "audio/91487896-1e4e-4278-9eb5-a723e1b10d63.mp3",
-        "durationSec": 3.432
+        "voice": "Antonio (Natural) (Brazil)",
+        "url": "https://cdn.ttsforfree.com/audio/20261109/e4de10b0-83e1-49de-8d80-e19c5ca38c7e.mp3",
+        "credits": 28,
+        "file": "audio/e4de10b0-83e1-49de-8d80-e19c5ca38c7e.mp3",
+        "durationSec": 4.032
       }
     },
     {
-      "text": "Weeks later, the major claimed nine hundred eighty-six kills.",
+      "text": "Semanas depois, o major alegou novecentos e oitenta e seis abates.",
       "highlight": [
-        "nine",
-        "hundred"
+        "novecentos",
+        "alegou"
       ],
       "background": "room",
       "actors": [
@@ -316,27 +315,27 @@
         {
           "kind": "calendar",
           "x": 0.75,
-          "label": "DEC",
+          "label": "DEZ",
           "scale": 0.8
         }
       ],
       "bubble": {
         "actor": "major",
-        "text": "986 down!"
+        "text": "986 abatidos!"
       },
       "narration": {
-        "voice": "Andrew (Natural)  (United States)",
-        "url": "https://cdn.ttsforfree.com/audio/20261109/5fcae21a-6a25-48a3-afe2-a57abfb93ca4.mp3",
-        "credits": 31,
-        "file": "audio/5fcae21a-6a25-48a3-afe2-a57abfb93ca4.mp3",
-        "durationSec": 4.008
+        "voice": "Antonio (Natural) (Brazil)",
+        "url": "https://cdn.ttsforfree.com/audio/20261109/59810feb-337b-4b93-87f7-f0bfd91b38e3.mp3",
+        "credits": 33,
+        "file": "audio/59810feb-337b-4b93-87f7-f0bfd91b38e3.mp3",
+        "durationSec": 3.936
       }
     },
     {
-      "text": "Using nearly ten thousand bullets. That's ten bullets per bird.",
+      "text": "Com quase dez mil balas. Dez balas por ave.",
       "highlight": [
-        "ten",
-        "bird"
+        "dez",
+        "ave"
       ],
       "background": "void",
       "actors": [
@@ -359,24 +358,24 @@
           "expression": "smug"
         }
       ],
-      "bigText": "10 PER BIRD",
+      "bigText": "10 POR AVE",
       "camera": "flash",
       "narration": {
-        "voice": "Andrew (Natural)  (United States)",
-        "url": "https://cdn.ttsforfree.com/audio/20261109/b6fe8ac6-0ce2-4633-9b83-0f31c45c346a.mp3",
-        "credits": 32,
-        "file": "audio/b6fe8ac6-0ce2-4633-9b83-0f31c45c346a.mp3",
-        "durationSec": 4.2
+        "voice": "Antonio (Natural) (Brazil)",
+        "url": "https://cdn.ttsforfree.com/audio/20261109/0e77884e-63bb-4445-95e4-752363a5dfeb.mp3",
+        "credits": 22,
+        "file": "audio/0e77884e-63bb-4445-95e4-752363a5dfeb.mp3",
+        "durationSec": 3.768
       }
     },
     {
-      "text": "Honest version: no war was declared. It was a small army cull.",
+      "text": "Versão honesta: não houve guerra declarada. Foi um pequeno abate.",
       "highlight": [
-        "honest",
-        "declared"
+        "honesta",
+        "declarada"
       ],
       "background": "classroom",
-      "boardText": "NOT A REAL WAR",
+      "boardText": "NÃO FOI GUERRA",
       "actors": [
         {
           "id": "narrator",
@@ -389,18 +388,18 @@
         }
       ],
       "narration": {
-        "voice": "Andrew (Natural)  (United States)",
-        "url": "https://cdn.ttsforfree.com/audio/20261109/964258b9-b3ad-4016-9ab7-381f18e559f4.mp3",
-        "credits": 31,
-        "file": "audio/964258b9-b3ad-4016-9ab7-381f18e559f4.mp3",
-        "durationSec": 4.224
+        "voice": "Antonio (Natural) (Brazil)",
+        "url": "https://cdn.ttsforfree.com/audio/20261109/15a3f87b-cb7a-4406-8739-41001e7f7872.mp3",
+        "credits": 33,
+        "file": "audio/15a3f87b-cb7a-4406-8739-41001e7f7872.mp3",
+        "durationSec": 4.512
       }
     },
     {
-      "text": "But the emus outlasted it. Farmers later got bounties instead.",
+      "text": "Mas os emus resistiram. Os fazendeiros ganharam recompensas.",
       "highlight": [
-        "outlasted",
-        "bounties"
+        "resistiram",
+        "recompensas"
       ],
       "background": "street",
       "actors": [
@@ -429,18 +428,18 @@
         }
       ],
       "narration": {
-        "voice": "Andrew (Natural)  (United States)",
-        "url": "https://cdn.ttsforfree.com/audio/20261109/ee6cf46f-8241-4096-b46b-93a9162d0271.mp3",
-        "credits": 31,
-        "file": "audio/ee6cf46f-8241-4096-b46b-93a9162d0271.mp3",
-        "durationSec": 3.984
+        "voice": "Antonio (Natural) (Brazil)",
+        "url": "https://cdn.ttsforfree.com/audio/20261109/4a3528fd-525f-40ac-a471-e0aa54fa6939.mp3",
+        "credits": 30,
+        "file": "audio/4a3528fd-525f-40ac-a471-e0aa54fa6939.mp3",
+        "durationSec": 4.272
       }
     },
     {
-      "text": "Follow for more true stories that sound completely fake.",
+      "text": "Siga para mais histórias reais que parecem mentira.",
       "highlight": [
-        "Follow",
-        "true"
+        "Siga",
+        "reais"
       ],
       "background": "void",
       "actors": [
@@ -473,11 +472,11 @@
       ],
       "camera": "punchIn",
       "narration": {
-        "voice": "Andrew (Natural)  (United States)",
-        "url": "https://cdn.ttsforfree.com/audio/20261109/ebb805a2-a451-4e2b-8d24-809b51b841f0.mp3",
-        "credits": 28,
-        "file": "audio/ebb805a2-a451-4e2b-8d24-809b51b841f0.mp3",
-        "durationSec": 3.336
+        "voice": "Antonio (Natural) (Brazil)",
+        "url": "https://cdn.ttsforfree.com/audio/20261109/ea206972-04c4-4743-8652-848c8d99bf11.mp3",
+        "credits": 26,
+        "file": "audio/ea206972-04c4-4743-8652-848c8d99bf11.mp3",
+        "durationSec": 2.928
       }
     }
   ]
