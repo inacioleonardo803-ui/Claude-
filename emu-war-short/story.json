@@ -1,0 +1,484 @@
+{
+  "id": "emu-war",
+  "lang": "en",
+  "title": "The Emu War: Australia vs. the emus",
+  "useCase": "history",
+  "voiceTier": "budget",
+  "scenes": [
+    {
+      "text": "In 1932, Australia's army fought birds.",
+      "highlight": [
+        "army",
+        "birds"
+      ],
+      "background": "street",
+      "actors": [
+        {
+          "id": "major",
+          "hat": "cap",
+          "color": "#3d5a2a",
+          "pose": "point",
+          "x": 0.25,
+          "expression": "determined",
+          "prop": "flag"
+        },
+        {
+          "id": "emu1",
+          "x": 0.72,
+          "hat": "hair",
+          "color": "#8a5a2b",
+          "scale": 0.9,
+          "pose": "stand",
+          "face": -1,
+          "expression": "smug"
+        }
+      ],
+      "camera": "punchIn",
+      "bigText": "1932",
+      "narration": {
+        "voice": "Andrew (Natural)  (United States)",
+        "url": "https://cdn.ttsforfree.com/audio/20261109/8e582bda-222c-4fc7-a6b0-6c66c6d20e44.mp3",
+        "credits": 20,
+        "file": "audio/8e582bda-222c-4fc7-a6b0-6c66c6d20e44.mp3",
+        "durationSec": 3.792
+      }
+    },
+    {
+      "text": "And the birds won. Sort of.",
+      "highlight": [
+        "won"
+      ],
+      "background": "void",
+      "actors": [
+        {
+          "id": "emu1",
+          "x": 0.5,
+          "hat": "hair",
+          "color": "#8a5a2b",
+          "scale": 1.3,
+          "pose": "cheer",
+          "expression": "happy"
+        },
+        {
+          "id": "major",
+          "hat": "cap",
+          "color": "#3d5a2a",
+          "pose": "sad",
+          "x": 0.2,
+          "expression": "sad"
+        }
+      ],
+      "effects": [
+        {
+          "kind": "question",
+          "x": 0.8,
+          "y": 0.35,
+          "at": 0.8
+        }
+      ],
+      "camera": "shake",
+      "narration": {
+        "voice": "Andrew (Natural)  (United States)",
+        "url": "https://cdn.ttsforfree.com/audio/20261109/e73f3ccd-1ba1-44bf-a5e3-10c8aa1c46ef.mp3",
+        "credits": 14,
+        "file": "audio/e73f3ccd-1ba1-44bf-a5e3-10c8aa1c46ef.mp3",
+        "durationSec": 1.992
+      }
+    },
+    {
+      "text": "Twenty thousand emus were trampling Western Australia's wheat.",
+      "highlight": [
+        "twenty",
+        "thousand"
+      ],
+      "background": "street",
+      "actors": [
+        {
+          "id": "farmer",
+          "hat": "top",
+          "color": "#444",
+          "pose": "shock",
+          "x": 0.2,
+          "expression": "shock"
+        },
+        {
+          "id": "emu1",
+          "x": 0.55,
+          "hat": "hair",
+          "color": "#8a5a2b",
+          "scale": 0.9,
+          "pose": "run",
+          "face": -1,
+          "x2": 0.45
+        },
+        {
+          "id": "emu2",
+          "x": 0.75,
+          "hat": "hair",
+          "color": "#8a5a2b",
+          "scale": 0.9,
+          "pose": "run",
+          "face": -1,
+          "x2": 0.62
+        },
+        {
+          "id": "emu3",
+          "x": 0.92,
+          "hat": "hair",
+          "color": "#8a5a2b",
+          "scale": 0.9,
+          "pose": "run",
+          "face": -1,
+          "x2": 0.82
+        }
+      ],
+      "props": [
+        {
+          "kind": "sign",
+          "x": 0.5,
+          "label": "WHEAT",
+          "scale": 0.7
+        }
+      ],
+      "effects": [
+        {
+          "kind": "speedlines",
+          "x": 0.6
+        }
+      ],
+      "bigText": "20,000",
+      "narration": {
+        "voice": "Andrew (Natural)  (United States)",
+        "url": "https://cdn.ttsforfree.com/audio/20261109/3526c2bd-1d2f-48f3-8b85-97584edd1309.mp3",
+        "credits": 31,
+        "file": "audio/3526c2bd-1d2f-48f3-8b85-97584edd1309.mp3",
+        "durationSec": 3.816
+      }
+    },
+    {
+      "text": "So the government sent soldiers with two machine guns.",
+      "highlight": [
+        "machine",
+        "guns"
+      ],
+      "background": "office",
+      "actors": [
+        {
+          "id": "major",
+          "hat": "cap",
+          "color": "#3d5a2a",
+          "pose": "walk",
+          "x": 0.3,
+          "enter": "left",
+          "expression": "determined"
+        },
+        {
+          "id": "soldier",
+          "hat": "cap",
+          "color": "#3d5a2a",
+          "pose": "walk",
+          "x": 0.55,
+          "enter": "left"
+        }
+      ],
+      "props": [
+        {
+          "kind": "box",
+          "x": 0.82
+        }
+      ],
+      "camera": "pan",
+      "narration": {
+        "voice": "Andrew (Natural)  (United States)",
+        "url": "https://cdn.ttsforfree.com/audio/20261109/3626f3a3-6abb-429d-90ed-ad21bb22b410.mp3",
+        "credits": 27,
+        "file": "audio/3626f3a3-6abb-429d-90ed-ad21bb22b410.mp3",
+        "durationSec": 3.096
+      }
+    },
+    {
+      "text": "The emus scattered and sprinted off at fifty kilometres an hour.",
+      "highlight": [
+        "fifty"
+      ],
+      "background": "street",
+      "actors": [
+        {
+          "id": "emu1",
+          "x": 0.3,
+          "hat": "hair",
+          "color": "#8a5a2b",
+          "scale": 0.9,
+          "pose": "run",
+          "x2": 0.95
+        },
+        {
+          "id": "emu2",
+          "x": 0.1,
+          "hat": "hair",
+          "color": "#8a5a2b",
+          "scale": 0.9,
+          "pose": "run",
+          "x2": 0.75
+        },
+        {
+          "id": "major",
+          "hat": "cap",
+          "color": "#3d5a2a",
+          "pose": "shock",
+          "x": 0.15,
+          "expression": "shock"
+        }
+      ],
+      "effects": [
+        {
+          "kind": "speedlines",
+          "x": 0.5
+        },
+        {
+          "kind": "sweat",
+          "x": 0.2,
+          "y": 0.55
+        }
+      ],
+      "bigText": "50 km/h",
+      "narration": {
+        "voice": "Andrew (Natural)  (United States)",
+        "url": "https://cdn.ttsforfree.com/audio/20261109/9d7cd154-9c06-416b-998d-660d6d63b994.mp3",
+        "credits": 32,
+        "file": "audio/9d7cd154-9c06-416b-998d-660d6d63b994.mp3",
+        "durationSec": 4.08
+      }
+    },
+    {
+      "text": "A gun jammed. Newspapers called it the Emu War.",
+      "highlight": [
+        "jammed",
+        "Emu",
+        "War"
+      ],
+      "background": "city",
+      "actors": [
+        {
+          "id": "major",
+          "hat": "cap",
+          "color": "#3d5a2a",
+          "pose": "think",
+          "x": 0.3,
+          "expression": "angry",
+          "prop": "paper"
+        }
+      ],
+      "props": [
+        {
+          "kind": "phoneBig",
+          "x": 0.72,
+          "label": "EMU WAR!",
+          "scale": 0.8
+        }
+      ],
+      "effects": [
+        {
+          "kind": "pow",
+          "x": 0.7,
+          "y": 0.4,
+          "at": 0.6
+        }
+      ],
+      "camera": "shake",
+      "narration": {
+        "voice": "Andrew (Natural)  (United States)",
+        "url": "https://cdn.ttsforfree.com/audio/20261109/91487896-1e4e-4278-9eb5-a723e1b10d63.mp3",
+        "credits": 24,
+        "file": "audio/91487896-1e4e-4278-9eb5-a723e1b10d63.mp3",
+        "durationSec": 3.432
+      }
+    },
+    {
+      "text": "Weeks later, the major claimed nine hundred eighty-six kills.",
+      "highlight": [
+        "nine",
+        "hundred"
+      ],
+      "background": "room",
+      "actors": [
+        {
+          "id": "major",
+          "hat": "cap",
+          "color": "#3d5a2a",
+          "pose": "talk",
+          "x": 0.3,
+          "speaking": true,
+          "expression": "smug"
+        }
+      ],
+      "props": [
+        {
+          "kind": "calendar",
+          "x": 0.75,
+          "label": "DEC",
+          "scale": 0.8
+        }
+      ],
+      "bubble": {
+        "actor": "major",
+        "text": "986 down!"
+      },
+      "narration": {
+        "voice": "Andrew (Natural)  (United States)",
+        "url": "https://cdn.ttsforfree.com/audio/20261109/5fcae21a-6a25-48a3-afe2-a57abfb93ca4.mp3",
+        "credits": 31,
+        "file": "audio/5fcae21a-6a25-48a3-afe2-a57abfb93ca4.mp3",
+        "durationSec": 4.008
+      }
+    },
+    {
+      "text": "Using nearly ten thousand bullets. That's ten bullets per bird.",
+      "highlight": [
+        "ten",
+        "bird"
+      ],
+      "background": "void",
+      "actors": [
+        {
+          "id": "major",
+          "hat": "cap",
+          "color": "#3d5a2a",
+          "pose": "shock",
+          "x": 0.3,
+          "expression": "shock"
+        },
+        {
+          "id": "emu1",
+          "x": 0.72,
+          "hat": "hair",
+          "color": "#8a5a2b",
+          "scale": 0.9,
+          "pose": "stand",
+          "face": -1,
+          "expression": "smug"
+        }
+      ],
+      "bigText": "10 PER BIRD",
+      "camera": "flash",
+      "narration": {
+        "voice": "Andrew (Natural)  (United States)",
+        "url": "https://cdn.ttsforfree.com/audio/20261109/b6fe8ac6-0ce2-4633-9b83-0f31c45c346a.mp3",
+        "credits": 32,
+        "file": "audio/b6fe8ac6-0ce2-4633-9b83-0f31c45c346a.mp3",
+        "durationSec": 4.2
+      }
+    },
+    {
+      "text": "Honest version: no war was declared. It was a small army cull.",
+      "highlight": [
+        "honest",
+        "declared"
+      ],
+      "background": "classroom",
+      "boardText": "NOT A REAL WAR",
+      "actors": [
+        {
+          "id": "narrator",
+          "hat": "bun",
+          "color": "#c0392b",
+          "pose": "point",
+          "x": 0.22,
+          "speaking": true,
+          "expression": "neutral"
+        }
+      ],
+      "narration": {
+        "voice": "Andrew (Natural)  (United States)",
+        "url": "https://cdn.ttsforfree.com/audio/20261109/964258b9-b3ad-4016-9ab7-381f18e559f4.mp3",
+        "credits": 31,
+        "file": "audio/964258b9-b3ad-4016-9ab7-381f18e559f4.mp3",
+        "durationSec": 4.224
+      }
+    },
+    {
+      "text": "But the emus outlasted it. Farmers later got bounties instead.",
+      "highlight": [
+        "outlasted",
+        "bounties"
+      ],
+      "background": "street",
+      "actors": [
+        {
+          "id": "emu1",
+          "x": 0.7,
+          "hat": "hair",
+          "color": "#8a5a2b",
+          "scale": 0.9,
+          "pose": "cheer",
+          "expression": "happy"
+        },
+        {
+          "id": "farmer",
+          "hat": "top",
+          "color": "#444",
+          "pose": "give",
+          "x": 0.3,
+          "prop": "money"
+        }
+      ],
+      "effects": [
+        {
+          "kind": "moneyRain",
+          "x": 0.3
+        }
+      ],
+      "narration": {
+        "voice": "Andrew (Natural)  (United States)",
+        "url": "https://cdn.ttsforfree.com/audio/20261109/ee6cf46f-8241-4096-b46b-93a9162d0271.mp3",
+        "credits": 31,
+        "file": "audio/ee6cf46f-8241-4096-b46b-93a9162d0271.mp3",
+        "durationSec": 3.984
+      }
+    },
+    {
+      "text": "Follow for more true stories that sound completely fake.",
+      "highlight": [
+        "Follow",
+        "true"
+      ],
+      "background": "void",
+      "actors": [
+        {
+          "id": "narrator",
+          "hat": "bun",
+          "color": "#c0392b",
+          "pose": "point",
+          "x": 0.4,
+          "speaking": true,
+          "expression": "happy"
+        },
+        {
+          "id": "emu1",
+          "x": 0.75,
+          "hat": "hair",
+          "color": "#8a5a2b",
+          "scale": 0.9,
+          "pose": "cheer",
+          "face": -1,
+          "expression": "happy"
+        }
+      ],
+      "effects": [
+        {
+          "kind": "arrowUp",
+          "x": 0.85,
+          "y": 0.5
+        }
+      ],
+      "camera": "punchIn",
+      "narration": {
+        "voice": "Andrew (Natural)  (United States)",
+        "url": "https://cdn.ttsforfree.com/audio/20261109/ebb805a2-a451-4e2b-8d24-809b51b841f0.mp3",
+        "credits": 28,
+        "file": "audio/ebb805a2-a451-4e2b-8d24-809b51b841f0.mp3",
+        "durationSec": 3.336
+      }
+    }
+  ]
+}
