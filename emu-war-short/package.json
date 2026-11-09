@@ -1,0 +1,21 @@
+{
+  "name": "stickman-short",
+  "private": true,
+  "description": "Stick-figure Shorts rendered with Remotion, voiced by TTSForFree.",
+  "scripts": {
+    "studio": "remotion studio src/index.ts",
+    "voice": "node scripts/voice.mjs story.json",
+    "render": "remotion render src/index.ts short out/short.mp4"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.537",
+    "@remotion/media-utils": "4.0.537",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "remotion": "4.0.537"
+  },
+  "devDependencies": {
+    "@types/react": "19.1.8",
+    "typescript": "5.8.3"
+  }
+}
